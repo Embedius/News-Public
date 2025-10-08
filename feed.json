@@ -10,7 +10,7 @@
         "hours_ago": "Just now",
         "is_short": 0,
         "timestamp": "1759950740",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "kCBxOGOTF5w",
@@ -88,7 +88,7 @@
         "hours_ago": "Just now",
         "is_short": 0,
         "timestamp": "1759950048",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "TLMnss_XHvU",
@@ -452,7 +452,7 @@
         "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1759948232",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "eHE3gPfE60I",
@@ -686,7 +686,7 @@
         "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1759946444",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "gE-QSAEks_E",
@@ -699,7 +699,7 @@
         "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1759946444",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "rJfBe-Hqs_E",
@@ -907,7 +907,7 @@
         "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1759944622",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "rX_5rezLNfw",
@@ -1154,7 +1154,7 @@
         "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1759942806",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "hZ17-YtFL7E",
@@ -1180,7 +1180,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759941901",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "nEXY-DXhsxw",
@@ -1193,7 +1193,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759941727",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "ykUXl3vqTz4",
@@ -1232,7 +1232,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759941491",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "60L6wuKFs9k",
@@ -1297,7 +1297,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759940937",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "1ihvXtIJIPw",
@@ -1401,7 +1401,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759940106",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "E8nXwpGnDwA",
@@ -1427,7 +1427,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759940100",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "R-ImTj3u6w0",
@@ -1453,7 +1453,7 @@
         "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1759939318",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "UniWb1FOEqs",
@@ -1502,10 +1502,10 @@
         "channel_name": "Fox News",
         "channel_link": "https:\/\/www.youtube.com\/@FoxNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/G3gLy3HBgiZ21mEt1uzR0VPA6VXpsgJReuD7Z91nHwcgyFVu_QpHNpxuULN1D0YEQBwD0F1HwQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1759938809",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "kxqZ6cEuy3k",
@@ -1531,7 +1531,7 @@
         "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1759938303",
-        "remove": 1
+        "remove": 0
     },
     {
         "video_id": "kZe6rlmijcE",
@@ -2429,19 +2429,6 @@
         "is_short": 0,
         "timestamp": "1759864558",
         "remove": 0
-    },
-    {
-        "video_id": "ScPofmT8XYw",
-        "video_title": "Orb\u00e1n accuses Zelenskyy of \u201cblackmail\u201d over EU entry | World News Tonight",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/ScPofmT8XYw\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=ScPofmT8XYw",
-        "channel_name": "TVP World",
-        "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
-        "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "24 hours ago",
-        "is_short": 0,
-        "timestamp": "1759863895",
-        "remove": 1
     },
     {
         "video_id": "7TceOMFsiow",
