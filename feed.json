@@ -26,6 +26,32 @@
         "remove": 0
     },
     {
+        "video_id": "ygC2lcDLlOY",
+        "video_title": "FLASHBACK: Charlie Kirk\u2019s Thanksgiving message of gratitude and unity",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/ygC2lcDLlOY\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=ygC2lcDLlOY",
+        "channel_name": "Fox News",
+        "channel_link": "https:\/\/www.youtube.com\/@FoxNews",
+        "channel_image": "https:\/\/yt3.ggpht.com\/G3gLy3HBgiZ21mEt1uzR0VPA6VXpsgJReuD7Z91nHwcgyFVu_QpHNpxuULN1D0YEQBwD0F1HwQ=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1764282613",
+        "remove": 0
+    },
+    {
+        "video_id": "uOcHyDwOHK0",
+        "video_title": "LIVE NEWS | Pope Leo XIV lands in Ankara for historic Orthodox anniversary visit | Times Now World",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/uOcHyDwOHK0\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=uOcHyDwOHK0",
+        "channel_name": "Times Now World",
+        "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
+        "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "Just now",
+        "is_short": 0,
+        "timestamp": "1764282327",
+        "remove": 0
+    },
+    {
         "video_id": "OpD8Q-6GinQ",
         "video_title": "G.Bissau president leaves the country after coup \u2022 FRANCE 24 English",
         "video_image": "https:\/\/i.ytimg.com\/vi\/OpD8Q-6GinQ\/maxresdefault.jpg",
@@ -33,7 +59,7 @@
         "channel_name": "France24",
         "channel_link": "https:\/\/www.youtube.com\/@France24_en",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1764281576",
         "remove": 0
@@ -88,32 +114,6 @@
         "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1764280631",
-        "remove": 0
-    },
-    {
-        "video_id": "wpJa2v9RNu4",
-        "video_title": "'The legal cards are held by the federal government' | Former B.C. environment minister on pipeline",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/wpJa2v9RNu4\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=wpJa2v9RNu4",
-        "channel_name": "CTV News",
-        "channel_link": "https:\/\/www.youtube.com\/@CTVNews",
-        "channel_image": "https:\/\/yt3.ggpht.com\/F1QF1sUtJvIrLSb4VOuDBWxeizO_WupZOf_dV9LLn47rJDpNAl8irkfBwVOnHvnuLgLt-xjVGks=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
-        "is_short": 0,
-        "timestamp": "1764280544",
-        "remove": 0
-    },
-    {
-        "video_id": "jKJBCngFehE",
-        "video_title": "\u2018It runs the risk of taking our eye off the prize\u2019 | B.C. Premier Eby on Ottawa-Alberta energy deal",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/jKJBCngFehE\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=jKJBCngFehE",
-        "channel_name": "CTV News",
-        "channel_link": "https:\/\/www.youtube.com\/@CTVNews",
-        "channel_image": "https:\/\/yt3.ggpht.com\/F1QF1sUtJvIrLSb4VOuDBWxeizO_WupZOf_dV9LLn47rJDpNAl8irkfBwVOnHvnuLgLt-xjVGks=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
-        "is_short": 0,
-        "timestamp": "1764280285",
         "remove": 0
     },
     {
@@ -332,7 +332,7 @@
         "channel_name": "Mirror Now",
         "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1764278328",
         "remove": 0
@@ -345,7 +345,7 @@
         "channel_name": "RFU",
         "channel_link": "https:\/\/www.youtube.com\/@RFU",
         "channel_image": "https:\/\/yt3.ggpht.com\/VzTK9wCZVbyVI-Ai-4lUWc8G-R9fKTsPfo_2oOfc_NMLCaR459nk4Ca87FOdhLBZtdS6G4tSpQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1764278208",
         "remove": 0
@@ -358,7 +358,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1764278104",
         "remove": 0
@@ -605,7 +605,7 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
+        "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1764274659",
         "remove": 0
@@ -917,7 +917,7 @@
         "channel_name": "Times Now World",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764271184",
         "remove": 0
@@ -930,7 +930,7 @@
         "channel_name": "MSNCB",
         "channel_link": "https:\/\/www.youtube.com\/@msnbc",
         "channel_image": "https:\/\/yt3.ggpht.com\/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764271130",
         "remove": 0
@@ -943,7 +943,7 @@
         "channel_name": "DW News",
         "channel_link": "https:\/\/www.youtube.com\/@dwnews",
         "channel_image": "https:\/\/yt3.ggpht.com\/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764270908",
         "remove": 0
@@ -956,7 +956,7 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764270749",
         "remove": 0
@@ -969,7 +969,7 @@
         "channel_name": "Times Now World",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764270657",
         "remove": 0
@@ -1151,7 +1151,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "4 hours ago",
+        "hours_ago": "5 hours ago",
         "is_short": 0,
         "timestamp": "1764267565",
         "remove": 0
@@ -1164,7 +1164,7 @@
         "channel_name": "Channel 4 News",
         "channel_link": "https:\/\/www.youtube.com\/@Channel4News",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "4 hours ago",
+        "hours_ago": "5 hours ago",
         "is_short": 0,
         "timestamp": "1764267398",
         "remove": 0
@@ -1333,7 +1333,7 @@
         "channel_name": "France24",
         "channel_link": "https:\/\/www.youtube.com\/@France24_en",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764263791",
         "remove": 0
@@ -1346,7 +1346,7 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764263498",
         "remove": 0
@@ -1411,7 +1411,7 @@
         "channel_name": "HT Videos",
         "channel_link": "https:\/\/www.youtube.com\/@HT-Videos",
         "channel_image": "https:\/\/yt3.ggpht.com\/KMsQbza8L3CALNQFqAjUrpgiuSCma4nb0WH7tsvmwH-YxeaBWygxLMp6FdoaJCEY8KjnnL2OsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "6 hours ago",
+        "hours_ago": "7 hours ago",
         "is_short": 0,
         "timestamp": "1764260205",
         "remove": 0
@@ -1580,7 +1580,7 @@
         "channel_name": "ABC News",
         "channel_link": "https:\/\/www.youtube.com\/@ABCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "7 hours ago",
+        "hours_ago": "8 hours ago",
         "is_short": 0,
         "timestamp": "1764256791",
         "remove": 0
@@ -1593,7 +1593,7 @@
         "channel_name": "France24",
         "channel_link": "https:\/\/www.youtube.com\/@France24_en",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "7 hours ago",
+        "hours_ago": "8 hours ago",
         "is_short": 0,
         "timestamp": "1764256636",
         "remove": 0
@@ -1703,19 +1703,6 @@
         "remove": 0
     },
     {
-        "video_id": "65wnb4T0KeA",
-        "video_title": "\u2018SUICIDE MISSION\u2019: Why FBI sees terror motive in DC National Guard shooting",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/65wnb4T0KeA\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=65wnb4T0KeA",
-        "channel_name": "Fox News",
-        "channel_link": "https:\/\/www.youtube.com\/@FoxNews",
-        "channel_image": "https:\/\/yt3.ggpht.com\/G3gLy3HBgiZ21mEt1uzR0VPA6VXpsgJReuD7Z91nHwcgyFVu_QpHNpxuULN1D0YEQBwD0F1HwQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
-        "is_short": 0,
-        "timestamp": "1764250213",
-        "remove": 0
-    },
-    {
         "video_id": "D4ZMdu1zuaM",
         "video_title": "What China's harsh reactions tell us about how it perceives Japan's shift towards Taiwan | DW News",
         "video_image": "https:\/\/i.ytimg.com\/vi\/D4ZMdu1zuaM\/maxresdefault.jpg",
@@ -1723,7 +1710,7 @@
         "channel_name": "DW News",
         "channel_link": "https:\/\/www.youtube.com\/@dwnews",
         "channel_image": "https:\/\/yt3.ggpht.com\/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764249302",
         "remove": 0
@@ -1736,7 +1723,7 @@
         "channel_name": "NBC News",
         "channel_link": "https:\/\/www.youtube.com\/@NBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764249233",
         "remove": 0
@@ -1866,7 +1853,7 @@
         "channel_name": "BBC News",
         "channel_link": "https:\/\/www.youtube.com\/@BBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "11 hours ago",
+        "hours_ago": "12 hours ago",
         "is_short": 0,
         "timestamp": "1764241891",
         "remove": 0
@@ -1957,7 +1944,7 @@
         "channel_name": "The National Desk",
         "channel_link": "https:\/\/www.youtube.com\/@TheNationalDesk",
         "channel_image": "https:\/\/yt3.ggpht.com\/0f2SJ-DChszzQtUjnQ_Y6uVTv9g7kiCpU0cBSHjO7X2h8XyjdjCaRrkBtpoCQxXUj2WUoAsLHwI=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "13 hours ago",
+        "hours_ago": "14 hours ago",
         "is_short": 0,
         "timestamp": "1764234659",
         "remove": 0
@@ -1983,7 +1970,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "14 hours ago",
+        "hours_ago": "15 hours ago",
         "is_short": 0,
         "timestamp": "1764231532",
         "remove": 0
@@ -1996,7 +1983,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "14 hours ago",
+        "hours_ago": "15 hours ago",
         "is_short": 0,
         "timestamp": "1764231061",
         "remove": 0
@@ -2048,7 +2035,7 @@
         "channel_name": "https:\/\/www.youtube.com\/@CNBCInternationalLive",
         "channel_link": "https:\/\/www.youtube.com\/@CNBCInternationalLive",
         "channel_image": "https:\/\/yt3.ggpht.com\/NQifEFAhycFf6L0lfquCpd1GPPwogGc50Cq-JIjF4YozDeJb3jhukJbfuNa1iImVyhdzvX4D3Wk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "15 hours ago",
+        "hours_ago": "16 hours ago",
         "is_short": 0,
         "timestamp": "1764227580",
         "remove": 0
@@ -2165,7 +2152,7 @@
         "channel_name": "MSNCB",
         "channel_link": "https:\/\/www.youtube.com\/@msnbc",
         "channel_image": "https:\/\/yt3.ggpht.com\/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "20 hours ago",
+        "hours_ago": "21 hours ago",
         "is_short": 0,
         "timestamp": "1764209869",
         "remove": 0
@@ -2399,7 +2386,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "37 hours ago",
+        "hours_ago": "38 hours ago",
         "is_short": 0,
         "timestamp": "1764148638",
         "remove": 0
