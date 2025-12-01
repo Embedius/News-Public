@@ -33,7 +33,7 @@
         "channel_name": "NBC News",
         "channel_link": "https:\/\/www.youtube.com\/@NBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1764553803",
         "remove": 0
@@ -228,7 +228,7 @@
         "channel_name": "HT Videos",
         "channel_link": "https:\/\/www.youtube.com\/@HT-Videos",
         "channel_image": "https:\/\/yt3.ggpht.com\/KMsQbza8L3CALNQFqAjUrpgiuSCma4nb0WH7tsvmwH-YxeaBWygxLMp6FdoaJCEY8KjnnL2OsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1764550200",
         "remove": 0
@@ -241,7 +241,7 @@
         "channel_name": "Mirror Now",
         "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1764549909",
         "remove": 0
@@ -332,7 +332,7 @@
         "channel_name": "GB News Online",
         "channel_link": "https:\/\/www.youtube.com\/@GBNewsOnline",
         "channel_image": "https:\/\/yt3.ggpht.com\/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
+        "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1764546302",
         "remove": 0
@@ -488,7 +488,7 @@
         "channel_name": "CNN",
         "channel_link": "https:\/\/www.youtube.com\/@CNN",
         "channel_image": "https:\/\/yt3.ggpht.com\/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764542943",
         "remove": 0
@@ -501,7 +501,7 @@
         "channel_name": "MSNCB",
         "channel_link": "https:\/\/www.youtube.com\/@msnbc",
         "channel_image": "https:\/\/yt3.ggpht.com\/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764542641",
         "remove": 0
@@ -543,19 +543,6 @@
         "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1764542183",
-        "remove": 0
-    },
-    {
-        "video_id": "2ElEgZSXJek",
-        "video_title": "JUST IN: Trump Takes Questions About Next Fed Chair, Russia, MRI, And More",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/2ElEgZSXJek\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=2ElEgZSXJek",
-        "channel_name": "Forbes Breaking News",
-        "channel_link": "https:\/\/www.youtube.com\/@ForbesBreakingNews",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mQDv3YYtwrEY-oFDf_zzH-iLoSFxmjDh2GhAG5CFyMNfY=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "4 hours ago",
-        "is_short": 0,
-        "timestamp": "1764542159",
         "remove": 0
     },
     {
@@ -683,7 +670,7 @@
         "channel_name": "GB News Online",
         "channel_link": "https:\/\/www.youtube.com\/@GBNewsOnline",
         "channel_image": "https:\/\/yt3.ggpht.com\/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "4 hours ago",
+        "hours_ago": "5 hours ago",
         "is_short": 0,
         "timestamp": "1764538977",
         "remove": 0
@@ -774,7 +761,7 @@
         "channel_name": "The National Desk",
         "channel_link": "https:\/\/www.youtube.com\/@TheNationalDesk",
         "channel_image": "https:\/\/yt3.ggpht.com\/0f2SJ-DChszzQtUjnQ_Y6uVTv9g7kiCpU0cBSHjO7X2h8XyjdjCaRrkBtpoCQxXUj2WUoAsLHwI=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764535637",
         "remove": 0
@@ -787,7 +774,7 @@
         "channel_name": "The National Desk",
         "channel_link": "https:\/\/www.youtube.com\/@TheNationalDesk",
         "channel_image": "https:\/\/yt3.ggpht.com\/0f2SJ-DChszzQtUjnQ_Y6uVTv9g7kiCpU0cBSHjO7X2h8XyjdjCaRrkBtpoCQxXUj2WUoAsLHwI=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764535571",
         "remove": 0
@@ -800,7 +787,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764535532",
         "remove": 0
@@ -813,7 +800,7 @@
         "channel_name": "CNN",
         "channel_link": "https:\/\/www.youtube.com\/@CNN",
         "channel_image": "https:\/\/yt3.ggpht.com\/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764535470",
         "remove": 0
@@ -826,7 +813,7 @@
         "channel_name": "The National Desk",
         "channel_link": "https:\/\/www.youtube.com\/@TheNationalDesk",
         "channel_image": "https:\/\/yt3.ggpht.com\/0f2SJ-DChszzQtUjnQ_Y6uVTv9g7kiCpU0cBSHjO7X2h8XyjdjCaRrkBtpoCQxXUj2WUoAsLHwI=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1764535383",
         "remove": 0
@@ -995,7 +982,7 @@
         "channel_name": "TimeNow",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNow",
         "channel_image": "https:\/\/yt3.ggpht.com\/tbt86hlboNiJbdDEbSzJAPxcs8f_NGc9PjowG_nv932vS1TM_o1hKpQBQKlhpVDe-wg9NJFWsg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "6 hours ago",
+        "hours_ago": "7 hours ago",
         "is_short": 0,
         "timestamp": "1764532182",
         "remove": 0
@@ -1229,7 +1216,7 @@
         "channel_name": "HT Videos",
         "channel_link": "https:\/\/www.youtube.com\/@HT-Videos",
         "channel_image": "https:\/\/yt3.ggpht.com\/KMsQbza8L3CALNQFqAjUrpgiuSCma4nb0WH7tsvmwH-YxeaBWygxLMp6FdoaJCEY8KjnnL2OsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "7 hours ago",
+        "hours_ago": "8 hours ago",
         "is_short": 0,
         "timestamp": "1764528601",
         "remove": 0
@@ -1242,7 +1229,7 @@
         "channel_name": "Channel 4 News",
         "channel_link": "https:\/\/www.youtube.com\/@Channel4News",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "7 hours ago",
+        "hours_ago": "8 hours ago",
         "is_short": 0,
         "timestamp": "1764528558",
         "remove": 0
@@ -1300,19 +1287,6 @@
         "remove": 0
     },
     {
-        "video_id": "3RJ0IdeRr9o",
-        "video_title": "Russia Challenges Trump Directly, Builds Killer Fighter Jets For Iran Across Multiple Defense Plants",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/3RJ0IdeRr9o\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=3RJ0IdeRr9o",
-        "channel_name": "HT Videos",
-        "channel_link": "https:\/\/www.youtube.com\/@HT-Videos",
-        "channel_image": "https:\/\/yt3.ggpht.com\/KMsQbza8L3CALNQFqAjUrpgiuSCma4nb0WH7tsvmwH-YxeaBWygxLMp6FdoaJCEY8KjnnL2OsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "8 hours ago",
-        "is_short": 0,
-        "timestamp": "1764525608",
-        "remove": 0
-    },
-    {
         "video_id": "4H5B7OMw9lY",
         "video_title": "Danger in the Baltics: The threat from Russia | DW Reporter",
         "video_image": "https:\/\/i.ytimg.com\/vi\/4H5B7OMw9lY\/maxresdefault.jpg",
@@ -1336,19 +1310,6 @@
         "hours_ago": "9 hours ago",
         "is_short": 0,
         "timestamp": "1764524192",
-        "remove": 0
-    },
-    {
-        "video_id": "UDKlvS87HuE",
-        "video_title": "India\u2019s Supersonic Strike Power Goes Global As Largest Muslim Country Bets On BrahMos | India News",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/UDKlvS87HuE\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=UDKlvS87HuE",
-        "channel_name": "HT Videos",
-        "channel_link": "https:\/\/www.youtube.com\/@HT-Videos",
-        "channel_image": "https:\/\/yt3.ggpht.com\/KMsQbza8L3CALNQFqAjUrpgiuSCma4nb0WH7tsvmwH-YxeaBWygxLMp6FdoaJCEY8KjnnL2OsA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
-        "is_short": 0,
-        "timestamp": "1764523814",
         "remove": 0
     },
     {
@@ -1398,7 +1359,7 @@
         "channel_name": "CNN",
         "channel_link": "https:\/\/www.youtube.com\/@CNN",
         "channel_image": "https:\/\/yt3.ggpht.com\/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764521287",
         "remove": 0
@@ -1411,7 +1372,7 @@
         "channel_name": "France24",
         "channel_link": "https:\/\/www.youtube.com\/@France24_en",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764521006",
         "remove": 0
@@ -1424,7 +1385,7 @@
         "channel_name": "Mirror Now",
         "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1764520870",
         "remove": 0
@@ -1515,7 +1476,7 @@
         "channel_name": "DW News",
         "channel_link": "https:\/\/www.youtube.com\/@dwnews",
         "channel_image": "https:\/\/yt3.ggpht.com\/NSOdTQTWlqMy8O_j32dx-ftfTCHMOt04Hm7KZ4pfAK6-eQzQSZMWvvss90kG8KQfJ7iNP3phyA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "10 hours ago",
+        "hours_ago": "11 hours ago",
         "is_short": 0,
         "timestamp": "1764517436",
         "remove": 0
@@ -1528,7 +1489,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "10 hours ago",
+        "hours_ago": "11 hours ago",
         "is_short": 0,
         "timestamp": "1764517315",
         "remove": 0
@@ -1814,7 +1775,7 @@
         "channel_name": "France24",
         "channel_link": "https:\/\/www.youtube.com\/@France24_en",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "15 hours ago",
+        "hours_ago": "16 hours ago",
         "is_short": 0,
         "timestamp": "1764499531",
         "remove": 0
@@ -1892,7 +1853,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "17 hours ago",
+        "hours_ago": "18 hours ago",
         "is_short": 0,
         "timestamp": "1764492046",
         "remove": 0
@@ -2022,7 +1983,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "29 hours ago",
+        "hours_ago": "30 hours ago",
         "is_short": 0,
         "timestamp": "1764449219",
         "remove": 0
@@ -2282,7 +2243,7 @@
         "channel_name": "Channel 4 News",
         "channel_link": "https:\/\/www.youtube.com\/@Channel4News",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "54 hours ago",
+        "hours_ago": "55 hours ago",
         "is_short": 0,
         "timestamp": "1764358975",
         "remove": 0
@@ -2295,7 +2256,7 @@
         "channel_name": "Channel 4 News",
         "channel_link": "https:\/\/www.youtube.com\/@Channel4News",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "54 hours ago",
+        "hours_ago": "55 hours ago",
         "is_short": 0,
         "timestamp": "1764358823",
         "remove": 0
@@ -2412,7 +2373,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "65 hours ago",
+        "hours_ago": "66 hours ago",
         "is_short": 0,
         "timestamp": "1764319742",
         "remove": 0
@@ -2516,7 +2477,7 @@
         "channel_name": "News 24 Video",
         "channel_link": "https:\/\/www.youtube.com\/@News24Video",
         "channel_image": "https:\/\/yt3.ggpht.com\/L6O2z6lEX6A22lsHdHGyI8WSaSskVja8MPZyIn13OmflHfHLguoyFJvMvBfzrhizYAM4Pk5d3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "90 hours ago",
+        "hours_ago": "91 hours ago",
         "is_short": 0,
         "timestamp": "1764229276",
         "remove": 0
