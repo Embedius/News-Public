@@ -59,7 +59,7 @@
         "channel_name": "TimeNow",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNow",
         "channel_image": "https:\/\/yt3.ggpht.com\/tbt86hlboNiJbdDEbSzJAPxcs8f_NGc9PjowG_nv932vS1TM_o1hKpQBQKlhpVDe-wg9NJFWsg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765117754",
         "remove": 0
@@ -72,7 +72,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765117626",
         "remove": 0
@@ -85,7 +85,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765117616",
         "remove": 0
@@ -98,7 +98,7 @@
         "channel_name": "CBC News",
         "channel_link": "https:\/\/www.youtube.com\/@CBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765117570",
         "remove": 0
@@ -111,7 +111,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765117562",
         "remove": 0
@@ -124,7 +124,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1765117337",
         "remove": 0
@@ -475,7 +475,7 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1765113682",
         "remove": 0
@@ -621,19 +621,6 @@
         "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1765111746",
-        "remove": 0
-    },
-    {
-        "video_id": "EzupVEI7r0U",
-        "video_title": "US News LIVE: President Trump at Kennedy Center Honors Medal Presentation |48th Kennedy Center Honor",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/EzupVEI7r0U\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=EzupVEI7r0U",
-        "channel_name": "Mirror Now",
-        "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
-        "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
-        "is_short": 0,
-        "timestamp": "1765111712",
         "remove": 0
     },
     {
@@ -1073,7 +1060,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "5 hours ago",
+        "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1765099232",
         "remove": 0
@@ -1216,7 +1203,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "6 hours ago",
+        "hours_ago": "7 hours ago",
         "is_short": 0,
         "timestamp": "1765096035",
         "remove": 0
@@ -1229,7 +1216,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "6 hours ago",
+        "hours_ago": "7 hours ago",
         "is_short": 0,
         "timestamp": "1765095830",
         "remove": 0
@@ -1242,7 +1229,7 @@
         "channel_name": "GB News Online",
         "channel_link": "https:\/\/www.youtube.com\/@GBNewsOnline",
         "channel_image": "https:\/\/yt3.ggpht.com\/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "6 hours ago",
+        "hours_ago": "7 hours ago",
         "is_short": 0,
         "timestamp": "1765095672",
         "remove": 0
@@ -1333,7 +1320,7 @@
         "channel_name": "TimeNow",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNow",
         "channel_image": "https:\/\/yt3.ggpht.com\/tbt86hlboNiJbdDEbSzJAPxcs8f_NGc9PjowG_nv932vS1TM_o1hKpQBQKlhpVDe-wg9NJFWsg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "10 hours ago",
+        "hours_ago": "11 hours ago",
         "is_short": 0,
         "timestamp": "1765081457",
         "remove": 0
@@ -1762,7 +1749,7 @@
         "channel_name": "ABC News",
         "channel_link": "https:\/\/www.youtube.com\/@ABCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "16 hours ago",
+        "hours_ago": "17 hours ago",
         "is_short": 0,
         "timestamp": "1765060194",
         "remove": 0
@@ -1775,7 +1762,7 @@
         "channel_name": "PBS News Hour",
         "channel_link": "https:\/\/www.youtube.com\/@PBSNewsHour",
         "channel_image": "https:\/\/yt3.ggpht.com\/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "16 hours ago",
+        "hours_ago": "17 hours ago",
         "is_short": 0,
         "timestamp": "1765060179",
         "remove": 0
@@ -1807,19 +1794,6 @@
         "remove": 0
     },
     {
-        "video_id": "sC_mb1LZ7mw",
-        "video_title": "'GASLIGHTING' Keir Starmer TORCHED as FURIOUS Alex Armstrong RIPS into 'DANGEROUS' Labour Government",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/sC_mb1LZ7mw\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=sC_mb1LZ7mw",
-        "channel_name": "GB News Online",
-        "channel_link": "https:\/\/www.youtube.com\/@GBNewsOnline",
-        "channel_image": "https:\/\/yt3.ggpht.com\/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "17 hours ago",
-        "is_short": 0,
-        "timestamp": "1765058461",
-        "remove": 0
-    },
-    {
         "video_id": "SOFtHUYLc44",
         "video_title": "Timeline: US strikes on alleged drug boats",
         "video_image": "https:\/\/i.ytimg.com\/vi\/SOFtHUYLc44\/maxresdefault.jpg",
@@ -1840,7 +1814,7 @@
         "channel_name": "CBC News",
         "channel_link": "https:\/\/www.youtube.com\/@CBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "17 hours ago",
+        "hours_ago": "18 hours ago",
         "is_short": 0,
         "timestamp": "1765056501",
         "remove": 0
@@ -1853,22 +1827,9 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "17 hours ago",
-        "is_short": 0,
-        "timestamp": "1765056468",
-        "remove": 0
-    },
-    {
-        "video_id": "sBGKbUws1-4",
-        "video_title": "The Saturday Five Extra | Saturday 6th December",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/sBGKbUws1-4\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=sBGKbUws1-4",
-        "channel_name": "GB News Online",
-        "channel_link": "https:\/\/www.youtube.com\/@GBNewsOnline",
-        "channel_image": "https:\/\/yt3.ggpht.com\/8hySIA7Ed6amMiAHJVNsG9oph0zoSlCAffYTmINH3gXJ8vvcToB_xh7uIlKSHA9fBEae3e_yl6I=s88-c-k-c0x00ffffff-no-rj",
         "hours_ago": "18 hours ago",
         "is_short": 0,
-        "timestamp": "1765055088",
+        "timestamp": "1765056468",
         "remove": 0
     },
     {
@@ -1892,7 +1853,7 @@
         "channel_name": "CNN",
         "channel_link": "https:\/\/www.youtube.com\/@CNN",
         "channel_image": "https:\/\/yt3.ggpht.com\/wSqAf5WdxsGsl7ZMtlyfz3qKULo_URoFjmKky0gLThm_Jtu2wsVHMu-XzGZPAb-z8zeMBYUUMYA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "18 hours ago",
+        "hours_ago": "19 hours ago",
         "is_short": 0,
         "timestamp": "1765052794",
         "remove": 0
@@ -1957,7 +1918,7 @@
         "channel_name": "The Independent",
         "channel_link": "https:\/\/www.youtube.com\/@theindependent",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_lflULSxMfVTiLG4LxUB2WAhr12sLmEsrv24rkF43cIUmE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "19 hours ago",
+        "hours_ago": "20 hours ago",
         "is_short": 0,
         "timestamp": "1765048870",
         "remove": 0
@@ -1970,7 +1931,7 @@
         "channel_name": "The Independent",
         "channel_link": "https:\/\/www.youtube.com\/@theindependent",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_lflULSxMfVTiLG4LxUB2WAhr12sLmEsrv24rkF43cIUmE=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "19 hours ago",
+        "hours_ago": "20 hours ago",
         "is_short": 0,
         "timestamp": "1765048818",
         "remove": 0
@@ -2308,7 +2269,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "28 hours ago",
+        "hours_ago": "29 hours ago",
         "is_short": 0,
         "timestamp": "1765016435",
         "remove": 0
@@ -2386,7 +2347,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "30 hours ago",
+        "hours_ago": "31 hours ago",
         "is_short": 0,
         "timestamp": "1765009554",
         "remove": 0
@@ -2607,7 +2568,7 @@
         "channel_name": "PBS News Hour",
         "channel_link": "https:\/\/www.youtube.com\/@PBSNewsHour",
         "channel_image": "https:\/\/yt3.ggpht.com\/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "39 hours ago",
+        "hours_ago": "40 hours ago",
         "is_short": 0,
         "timestamp": "1764977385",
         "remove": 0
@@ -2620,7 +2581,7 @@
         "channel_name": "PBS News Hour",
         "channel_link": "https:\/\/www.youtube.com\/@PBSNewsHour",
         "channel_image": "https:\/\/yt3.ggpht.com\/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "39 hours ago",
+        "hours_ago": "40 hours ago",
         "is_short": 0,
         "timestamp": "1764977094",
         "remove": 0
@@ -2646,7 +2607,7 @@
         "channel_name": "Channel 4 News",
         "channel_link": "https:\/\/www.youtube.com\/@Channel4News",
         "channel_image": "https:\/\/yt3.ggpht.com\/ytc\/AIdro_mNdhtpAi0ZQmCqfkDSq6MQVdbfZe-c70nZ1qqdyQNzK3c=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "43 hours ago",
+        "hours_ago": "44 hours ago",
         "is_short": 0,
         "timestamp": "1764962918",
         "remove": 0
@@ -2698,7 +2659,7 @@
         "channel_name": "News 24 Video",
         "channel_link": "https:\/\/www.youtube.com\/@News24Video",
         "channel_image": "https:\/\/yt3.ggpht.com\/L6O2z6lEX6A22lsHdHGyI8WSaSskVja8MPZyIn13OmflHfHLguoyFJvMvBfzrhizYAM4Pk5d3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "47 hours ago",
+        "hours_ago": "48 hours ago",
         "is_short": 0,
         "timestamp": "1764948577",
         "remove": 0
@@ -2841,7 +2802,7 @@
         "channel_name": "News 24 Video",
         "channel_link": "https:\/\/www.youtube.com\/@News24Video",
         "channel_image": "https:\/\/yt3.ggpht.com\/L6O2z6lEX6A22lsHdHGyI8WSaSskVja8MPZyIn13OmflHfHLguoyFJvMvBfzrhizYAM4Pk5d3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "71 hours ago",
+        "hours_ago": "72 hours ago",
         "is_short": 0,
         "timestamp": "1764862123",
         "remove": 0
@@ -2867,7 +2828,7 @@
         "channel_name": "News 24 Video",
         "channel_link": "https:\/\/www.youtube.com\/@News24Video",
         "channel_image": "https:\/\/yt3.ggpht.com\/L6O2z6lEX6A22lsHdHGyI8WSaSskVja8MPZyIn13OmflHfHLguoyFJvMvBfzrhizYAM4Pk5d3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "72 hours ago",
+        "hours_ago": "73 hours ago",
         "is_short": 0,
         "timestamp": "1764858250",
         "remove": 0
@@ -2906,7 +2867,7 @@
         "channel_name": "News 24 Video",
         "channel_link": "https:\/\/www.youtube.com\/@News24Video",
         "channel_image": "https:\/\/yt3.ggpht.com\/L6O2z6lEX6A22lsHdHGyI8WSaSskVja8MPZyIn13OmflHfHLguoyFJvMvBfzrhizYAM4Pk5d3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "73 hours ago",
+        "hours_ago": "74 hours ago",
         "is_short": 0,
         "timestamp": "1764854418",
         "remove": 0
@@ -2919,7 +2880,7 @@
         "channel_name": "News 24 Video",
         "channel_link": "https:\/\/www.youtube.com\/@News24Video",
         "channel_image": "https:\/\/yt3.ggpht.com\/L6O2z6lEX6A22lsHdHGyI8WSaSskVja8MPZyIn13OmflHfHLguoyFJvMvBfzrhizYAM4Pk5d3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "74 hours ago",
+        "hours_ago": "75 hours ago",
         "is_short": 0,
         "timestamp": "1764851163",
         "remove": 0
@@ -2997,7 +2958,7 @@
         "channel_name": "https:\/\/www.youtube.com\/@CNBCInternationalLive",
         "channel_link": "https:\/\/www.youtube.com\/@CNBCInternationalLive",
         "channel_image": "https:\/\/yt3.ggpht.com\/NQifEFAhycFf6L0lfquCpd1GPPwogGc50Cq-JIjF4YozDeJb3jhukJbfuNa1iImVyhdzvX4D3Wk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "77 hours ago",
+        "hours_ago": "78 hours ago",
         "is_short": 0,
         "timestamp": "1764840315",
         "remove": 0
@@ -3010,7 +2971,7 @@
         "channel_name": "https:\/\/www.youtube.com\/@CNBCInternationalLive",
         "channel_link": "https:\/\/www.youtube.com\/@CNBCInternationalLive",
         "channel_image": "https:\/\/yt3.ggpht.com\/NQifEFAhycFf6L0lfquCpd1GPPwogGc50Cq-JIjF4YozDeJb3jhukJbfuNa1iImVyhdzvX4D3Wk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "77 hours ago",
+        "hours_ago": "78 hours ago",
         "is_short": 0,
         "timestamp": "1764840283",
         "remove": 0
@@ -3036,7 +2997,7 @@
         "channel_name": "RFU",
         "channel_link": "https:\/\/www.youtube.com\/@RFU",
         "channel_image": "https:\/\/yt3.ggpht.com\/VzTK9wCZVbyVI-Ai-4lUWc8G-R9fKTsPfo_2oOfc_NMLCaR459nk4Ca87FOdhLBZtdS6G4tSpQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "91 hours ago",
+        "hours_ago": "92 hours ago",
         "is_short": 0,
         "timestamp": "1764790105",
         "remove": 0
@@ -3062,7 +3023,7 @@
         "channel_name": "Daily Mirror",
         "channel_link": "https:\/\/www.youtube.com\/@dailymirror",
         "channel_image": "https:\/\/yt3.ggpht.com\/11YLTtRztznyniIztWg48DSuMl2ZZCIc84WcNAELv-7v5MdaNX6lBrgT9c6QPDN5iWArbwfSJAA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "93 hours ago",
+        "hours_ago": "94 hours ago",
         "is_short": 0,
         "timestamp": "1764782806",
         "remove": 0
@@ -3075,7 +3036,7 @@
         "channel_name": "Daily Mirror",
         "channel_link": "https:\/\/www.youtube.com\/@dailymirror",
         "channel_image": "https:\/\/yt3.ggpht.com\/11YLTtRztznyniIztWg48DSuMl2ZZCIc84WcNAELv-7v5MdaNX6lBrgT9c6QPDN5iWArbwfSJAA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "93 hours ago",
+        "hours_ago": "94 hours ago",
         "is_short": 0,
         "timestamp": "1764782732",
         "remove": 0
