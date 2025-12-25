@@ -241,33 +241,14 @@
                         </li>
                     </ul>
                 </div>
-            </div><div id='main'><div id='videos'>
-                            <div class='card' data-index='0'>
-                                <div class='hero'>
-                                    <div class='loading' id='loading-81T87RmMj5A'>
-                                        <svg viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'><g id='SVGRepo_bgCarrier' stroke-width='0'></g><g id='SVGRepo_tracerCarrier' stroke-linecap='round' stroke-linejoin='round'></g><g id='SVGRepo_iconCarrier'> <path d='M17.6566 12H21M3 12H6.34315M12 6.34342L12 3M12 21L12 17.6569' stroke='#363853' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'></path> <path d='M16 8.00025L18.3642 5.63611M5.63629 18.364L8.00025 16M8.00022 8.00025L5.63608 5.63611M18.364 18.364L16 16' stroke='#0095FF' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'></path> </g></svg>
-                                    </div>
-                                    <img id='remove-81T87RmMj5A' future='https://i.ytimg.com/vi/81T87RmMj5A/maxresdefault.jpg'/>
-                                    <div id='player-81T87RmMj5A'></div>
-                                </div>
-                                <div class='about'>
-                                    <div class='image'>
-                                        <img future='https://yt3.ggpht.com/rmlVWfdP0UhyiMTdKXk5yOZNiS60oYOWZcJ3d_DJVI2jvjjQXdhaZjHIThzERMyOTAXCxvO4EMI=s88-c-k-c0x00ffffff-no-rj'>
-                                    </div>
-                                    <div class='text'>
-                                        <h3>Why is Meloni Talking About Seizing Italy&#039;s Gold?</h3>
-                                        <p>TLDR News EU, 45 hours ago</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div></div>
+            </div><div id='main'><div id='videos'></div></div>
                 <script>
                     let tag = document.createElement("script");
                     tag.src = "https://www.youtube.com/iframe_api";
                     let firstScriptTag = document.getElementsByTagName("script")[0];
                     firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
                     let players = [];
-                    let videos = [{"video_id":"81T87RmMj5A","video_title":"Why is Meloni Talking About Seizing Italy's Gold?","video_image":"https:\/\/i.ytimg.com\/vi\/81T87RmMj5A\/maxresdefault.jpg","video_link":"https:\/\/www.youtube.com\/watch?v=81T87RmMj5A","channel_name":"TLDR News EU","channel_link":"https:\/\/www.youtube.com\/@TLDRnewsEU","channel_image":"https:\/\/yt3.ggpht.com\/rmlVWfdP0UhyiMTdKXk5yOZNiS60oYOWZcJ3d_DJVI2jvjjQXdhaZjHIThzERMyOTAXCxvO4EMI=s88-c-k-c0x00ffffff-no-rj","hours_ago":"45 hours ago","is_short":0,"timestamp":"1766484901","remove":0}]
+                    let videos = []
                     let initializedPlayers = new Set();
                     function onYouTubeIframeAPIReady() {
                         const observer = new IntersectionObserver((entries, observer) => {
