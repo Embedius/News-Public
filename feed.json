@@ -98,7 +98,7 @@
         "channel_name": "Mirror Now",
         "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1766656555",
         "remove": 0
@@ -111,7 +111,7 @@
         "channel_name": "TimeNow",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNow",
         "channel_image": "https:\/\/yt3.ggpht.com\/tbt86hlboNiJbdDEbSzJAPxcs8f_NGc9PjowG_nv932vS1TM_o1hKpQBQKlhpVDe-wg9NJFWsg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "Just now",
+        "hours_ago": "One hour ago",
         "is_short": 0,
         "timestamp": "1766656438",
         "remove": 0
@@ -371,7 +371,7 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1766653143",
         "remove": 0
@@ -384,7 +384,7 @@
         "channel_name": "Mirror Now",
         "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1766652775",
         "remove": 0
@@ -397,7 +397,7 @@
         "channel_name": "Mirror Now",
         "channel_link": "https:\/\/www.youtube.com\/@mirrornow",
         "channel_image": "https:\/\/yt3.ggpht.com\/ZCQHmn7fa0wcjO9HzoX3sBee7ez9RcyG_QkGMQT4ooquc0CrulbJoS7FcZ3BlA4kWeOlBZiU8w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1766652699",
         "remove": 0
@@ -410,7 +410,7 @@
         "channel_name": "TimeNow",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNow",
         "channel_image": "https:\/\/yt3.ggpht.com\/tbt86hlboNiJbdDEbSzJAPxcs8f_NGc9PjowG_nv932vS1TM_o1hKpQBQKlhpVDe-wg9NJFWsg=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1766652687",
         "remove": 0
@@ -423,7 +423,7 @@
         "channel_name": "Times Now World",
         "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "One hour ago",
+        "hours_ago": "2 hours ago",
         "is_short": 0,
         "timestamp": "1766652621",
         "remove": 0
@@ -520,19 +520,6 @@
         "remove": 0
     },
     {
-        "video_id": "FmCTEaL1a6c",
-        "video_title": "PUTIN KREMLIN AWARDS LIVE | President Putin Bestows State Medals in Moscow Ceremony | TN World",
-        "video_image": "https:\/\/i.ytimg.com\/vi\/FmCTEaL1a6c\/maxresdefault.jpg",
-        "video_link": "https:\/\/www.youtube.com\/watch?v=FmCTEaL1a6c",
-        "channel_name": "Times Now World",
-        "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
-        "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
-        "is_short": 0,
-        "timestamp": "1766650628",
-        "remove": 0
-    },
-    {
         "video_id": "-kNkINTKdPU",
         "video_title": "UNSEEN VIDEO: Astronauts Send Christmas Cheer From Space With Tree and Festive ISS Decorations |AI1B",
         "video_image": "https:\/\/i.ytimg.com\/vi\/-kNkINTKdPU\/maxresdefault.jpg",
@@ -540,7 +527,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "2 hours ago",
+        "hours_ago": "3 hours ago",
         "is_short": 0,
         "timestamp": "1766649213",
         "remove": 0
@@ -592,7 +579,7 @@
         "channel_name": "ABC News",
         "channel_link": "https:\/\/www.youtube.com\/@ABCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/GJ8V0NX6NddGh9bf4zED4tsjPjjBK2hdp5FWHMy09pV7sdSkkE3yEhCRSch4waEb9ZavyUrWfw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1766645581",
         "remove": 0
@@ -605,7 +592,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "3 hours ago",
+        "hours_ago": "4 hours ago",
         "is_short": 0,
         "timestamp": "1766645423",
         "remove": 0
@@ -631,7 +618,7 @@
         "channel_name": "Sky News",
         "channel_link": "https:\/\/www.youtube.com\/@SkyNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/dGnkztdrLtXRlzkdqReeL-NES2761xxmNVcJhGKqFpR0vQBoP9XaxnXF95FDpwrjyFr2iJvV8Es=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "4 hours ago",
+        "hours_ago": "5 hours ago",
         "is_short": 0,
         "timestamp": "1766642406",
         "remove": 0
@@ -657,7 +644,7 @@
         "channel_name": "DRM News International",
         "channel_link": "https:\/\/www.youtube.com\/@DRMNewsInternational",
         "channel_image": "https:\/\/yt3.ggpht.com\/zZov0soXwnPSMaPiSlZVVj8tPt6gqmC6ZWT-rmXUvE_mYJPPNJ-W92zQDmQQ6E7wcLD83xbkAQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "4 hours ago",
+        "hours_ago": "5 hours ago",
         "is_short": 0,
         "timestamp": "1766642272",
         "remove": 0
@@ -816,6 +803,19 @@
         "hours_ago": "6 hours ago",
         "is_short": 0,
         "timestamp": "1766637002",
+        "remove": 0
+    },
+    {
+        "video_id": "J1jkNa7yPpI",
+        "video_title": "KING FELIPE'S CHRISTMAS ADDRESS LIVE | Speech: His Majesty King Felipe VI Delivers Christmas Message",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/J1jkNa7yPpI\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=J1jkNa7yPpI",
+        "channel_name": "Times Now World",
+        "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
+        "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "6 hours ago",
+        "is_short": 0,
+        "timestamp": "1766636117",
         "remove": 0
     },
     {
@@ -1073,9 +1073,22 @@
         "channel_name": "NBC News",
         "channel_link": "https:\/\/www.youtube.com\/@NBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/PJj5jtuEOi5UmkFy4IBonj5WcabNcnJAIJe-jZMd1ArwIuVyQxFH_2zryBHwvfv6mJujwRpWDCM=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "9 hours ago",
+        "hours_ago": "10 hours ago",
         "is_short": 0,
         "timestamp": "1766623960",
+        "remove": 0
+    },
+    {
+        "video_id": "K48jQrE0JKs",
+        "video_title": "PUTIN'S PEACE PLAN LIVE | Russian President Chairs Cabinet Meeting on Ukraine Strategy | TN World",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/K48jQrE0JKs\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=K48jQrE0JKs",
+        "channel_name": "Times Now World",
+        "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
+        "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "10 hours ago",
+        "is_short": 0,
+        "timestamp": "1766623543",
         "remove": 0
     },
     {
@@ -1203,7 +1216,7 @@
         "channel_name": "CBC News",
         "channel_link": "https:\/\/www.youtube.com\/@CBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/9bJu0WRWPRgja30h3i5gh3Mg4T94dVfcm6L8SEhjkM3j-AwqFKQZp1JxLhXpSVYzQjJTOXiw2vM=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "10 hours ago",
+        "hours_ago": "11 hours ago",
         "is_short": 0,
         "timestamp": "1766620774",
         "remove": 0
@@ -1690,6 +1703,19 @@
         "remove": 0
     },
     {
+        "video_id": "qxua9PL4RyI",
+        "video_title": "BETHLEHEM CHRISTMAS EVE LIVE | Scout Parades & Festivities in Manger Square | Times Now World",
+        "video_image": "https:\/\/i.ytimg.com\/vi\/qxua9PL4RyI\/maxresdefault.jpg",
+        "video_link": "https:\/\/www.youtube.com\/watch?v=qxua9PL4RyI",
+        "channel_name": "Times Now World",
+        "channel_link": "https:\/\/www.youtube.com\/@TimesNowWorld",
+        "channel_image": "https:\/\/yt3.ggpht.com\/uE_F9YeXDi9iIojYSagwrcViMR0flQ3-Bw8ty-aR4rUshG0WhHg15RD0o5xrgvQHxFjaUOHW1w=s88-c-k-c0x00ffffff-no-rj",
+        "hours_ago": "18 hours ago",
+        "is_short": 0,
+        "timestamp": "1766594274",
+        "remove": 0
+    },
+    {
         "video_id": "mmQzoeYEgxg",
         "video_title": "Live: Surfing Santa returns to Cocoa Beach on Christmas Eve",
         "video_image": "https:\/\/i.ytimg.com\/vi\/mmQzoeYEgxg\/maxresdefault.jpg",
@@ -1931,7 +1957,7 @@
         "channel_name": "Markets",
         "channel_link": "https:\/\/www.youtube.com\/@markets",
         "channel_image": "https:\/\/yt3.ggpht.com\/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "21 hours ago",
+        "hours_ago": "22 hours ago",
         "is_short": 0,
         "timestamp": "1766581029",
         "remove": 0
@@ -2022,7 +2048,7 @@
         "channel_name": "MSNCB",
         "channel_link": "https:\/\/www.youtube.com\/@msnbc",
         "channel_image": "https:\/\/yt3.ggpht.com\/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "22 hours ago",
+        "hours_ago": "23 hours ago",
         "is_short": 0,
         "timestamp": "1766577306",
         "remove": 0
@@ -2035,7 +2061,7 @@
         "channel_name": "MSNCB",
         "channel_link": "https:\/\/www.youtube.com\/@msnbc",
         "channel_image": "https:\/\/yt3.ggpht.com\/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "22 hours ago",
+        "hours_ago": "23 hours ago",
         "is_short": 0,
         "timestamp": "1766577274",
         "remove": 0
@@ -2048,7 +2074,7 @@
         "channel_name": "BBC News",
         "channel_link": "https:\/\/www.youtube.com\/@BBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "22 hours ago",
+        "hours_ago": "23 hours ago",
         "is_short": 0,
         "timestamp": "1766577139",
         "remove": 0
@@ -2139,7 +2165,7 @@
         "channel_name": "TVP World",
         "channel_link": "https:\/\/www.youtube.com\/@TVPWorld",
         "channel_image": "https:\/\/yt3.ggpht.com\/wPeR_E0huWlxDGs9qaCfDQiko2lxte2Um-2DHMRjVAZO_W2f499gQeEymgy0rJngPkpaNG2w5Q=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "24 hours ago",
+        "hours_ago": "25 hours ago",
         "is_short": 0,
         "timestamp": "1766569850",
         "remove": 0
@@ -2230,7 +2256,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "29 hours ago",
+        "hours_ago": "30 hours ago",
         "is_short": 0,
         "timestamp": "1766551916",
         "remove": 0
@@ -2243,7 +2269,7 @@
         "channel_name": "PBS News Hour",
         "channel_link": "https:\/\/www.youtube.com\/@PBSNewsHour",
         "channel_image": "https:\/\/yt3.ggpht.com\/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "33 hours ago",
+        "hours_ago": "34 hours ago",
         "is_short": 0,
         "timestamp": "1766537424",
         "remove": 0
@@ -2295,7 +2321,7 @@
         "channel_name": "PBS News Hour",
         "channel_link": "https:\/\/www.youtube.com\/@PBSNewsHour",
         "channel_image": "https:\/\/yt3.ggpht.com\/3qIMp79Z-ynhtXTYyNcdybHwvtILVk_jNMKTLbasP8F1UYCdtU-FFjTJPNGQCp5KZuNUQ62n9Gk=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "34 hours ago",
+        "hours_ago": "35 hours ago",
         "is_short": 0,
         "timestamp": "1766533871",
         "remove": 0
@@ -2464,7 +2490,7 @@
         "channel_name": "BBC News",
         "channel_link": "https:\/\/www.youtube.com\/@BBCNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/v4JamQ9B-PUiJHjmZQs9UwTaoLQW8vijJMMpV5QvA2wHQ6iwWM8Q1s6O4jgTl0dtDigVWAi7SA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "46 hours ago",
+        "hours_ago": "47 hours ago",
         "is_short": 0,
         "timestamp": "1766490691",
         "remove": 0
@@ -2529,7 +2555,7 @@
         "channel_name": "SBS News",
         "channel_link": "https:\/\/www.youtube.com\/@SBSNews",
         "channel_image": "https:\/\/yt3.ggpht.com\/06u8W4PUW1nP6RZruAcgHhyEpRIupFQC7at_P9cwcR8NrFu4WaQ25_g4dosHnCsHbzmkuAyD3w=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "62 hours ago",
+        "hours_ago": "63 hours ago",
         "is_short": 0,
         "timestamp": "1766433206",
         "remove": 0
@@ -2594,7 +2620,7 @@
         "channel_name": "Daily Mirror",
         "channel_link": "https:\/\/www.youtube.com\/@dailymirror",
         "channel_image": "https:\/\/yt3.ggpht.com\/11YLTtRztznyniIztWg48DSuMl2ZZCIc84WcNAELv-7v5MdaNX6lBrgT9c6QPDN5iWArbwfSJAA=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "68 hours ago",
+        "hours_ago": "69 hours ago",
         "is_short": 0,
         "timestamp": "1766411910",
         "remove": 0
@@ -2620,7 +2646,7 @@
         "channel_name": "Union Watch",
         "channel_link": "https:\/\/www.youtube.com\/@union-watch",
         "channel_image": "https:\/\/yt3.ggpht.com\/FsoGu8b6ApQJ-r-AANd84xsPkrgqVHcQ-7D2jteSvMAmoBMjdDT-EAhPLJWqGCF78HOSClbOVw=s88-c-k-c0x00ffffff-no-rj",
-        "hours_ago": "86 hours ago",
+        "hours_ago": "87 hours ago",
         "is_short": 0,
         "timestamp": "1766347205",
         "remove": 0
